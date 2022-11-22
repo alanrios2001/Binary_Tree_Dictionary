@@ -1,5 +1,5 @@
 # Binary_Tree
-A code that by the following commands you can store a input word, with its morphological classification and translates, into a binary tree structure.
+A code that by the following commands you can store a input word, with its morphological classification and its translates, into a binary tree structure.
 
 Use the following commands:
 
